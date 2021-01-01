@@ -7,7 +7,7 @@ This arduino code allows you to run a payload in the background as administrator
 ## Installation
 
 ### All OS :
-```sh
+```bash
 git clone https://github.com/Alex7833/HID-Arduino-Payload-Azerty
 Or just download zip file : https://github.com/Alex7833/HID-Arduino-Payload-Azerty/archive/main.zip
 ```
