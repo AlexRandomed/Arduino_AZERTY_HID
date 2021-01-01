@@ -2,7 +2,7 @@
 
 ## Presentation
 
-This arduino code allows you to run a payload in the background as an administrator.
+This arduino code allows you to run a payload in the background as administrator with azerty keyboard.
 
 ## Installation
 
