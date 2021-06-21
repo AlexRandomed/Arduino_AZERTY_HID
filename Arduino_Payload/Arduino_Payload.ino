@@ -33,7 +33,7 @@ void setup(){
   Keyboard.releaseAll();
 }
 
-String fr2en(String text){
+String fr2en(String text){ // https://dyrk.org/2018/12/09/arduino-simuler-un-clavier-azerty/
   int i = 0;
   String _en = " =qwertyuiopasdfghjkl;zxcvbnQWERTYUIOPASDFGHJKL:ZXCVBNm,./M<>?1234567890!@#$%^&*()",
          _fr = " =azertyuiopqsdfghjklmwxcvbnAZERTYUIOPQSDFGHJKLMWXCVBN,;:!?./ & \"'(- _  1234567890",
