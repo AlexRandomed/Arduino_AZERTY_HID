@@ -2,7 +2,7 @@
 
 ## Presentation
 
-This arduino code allows you to run a payload in the background as administrator in about 7 seconds with an azerty keyboard.
+This arduino code allows you to run powershell instructions in the background as administrator in about 7 seconds with an azerty keyboard.
 
 ## Installation
 
@@ -14,7 +14,7 @@ Or just download zip file : https://github.com/AlexRandomed/Arduino_AZERTY_HID/a
 
 ## Configuration : 
 ```
-Replace https://localhost/payload.ps1 with your payload
+Replace https://localhost/payload.ps1 with the url of your powershell script.
 ```
 
 ## Contributing
